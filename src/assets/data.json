@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "date": "24/11/2025",
+      "title": "MEDIPREDICT: HEALTH RISK ANALYSIS",
+      "description": "MediPredict helps users understand their health by predicting disease risks, showing visual reports, and saving past results so users can track changes over time.",
+      "url": "https://medipredict-ggil.onrender.com/",
+      "imgSrc": "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg"
+    },
+
+    {
+      "date": "31/08/2025",
+      "title": "BLOGGING PLATFORM",
+      "description": "A full-stack blogging platform built with React and Node.js featuring user authentication, blog creation, commenting, responsive design, and SEO optimization for enhanced visibility and scalability.",
+      "url": "https://sweet-blancmange-0d9327.netlify.app/",
+      "imgSrc": "https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg"
+    },
+
+    {
+      "date": "14/02/2025",
+      "title": "ORGANIZATION WEBSITE",
+      "description": "A responsive organizational website developed using modern front-end tools, emphasizing clean UI/UX and performance optimization.",
+      "url": "https://rainbow-crepe-b31fce.netlify.app/",
+      "imgSrc": "https://images.pexels.com/photos/4158/apple-iphone-smartphone-desk.jpg"
+    },
+
+    {
+      "date": "10/01/2025",
+      "title": "VIDEO HUB",
+      "description": "Video Hub is a user-friendly video platform that combines secure authentication, video uploads, dark mode, and interactive UI elements to deliver an engaging and modern video-browsing experience.",
+      "url": "https://kanishkaa.online/videohub/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233_1280.jpg"
+    },
+
+    {
+      "date": "20/11/2024",
+      "title": "FOOD WEBSITE",
+      "description": "A food website landing that offers users a seamless experience intuitive interface.",
+      "url": "https://rad-conkies-8dd40d.netlify.app/",
+      "imgSrc": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg"
+    }
+  
+  ]
+}
