@@ -47,14 +47,10 @@ const Home = ({ ratio }) => {
                     />
 
                     <div>
-<<<<<<< HEAD
-                        <a href="mailto:adhikarikanishka13@gmail.com">Hire Me</a>
-=======
                         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adhikarikanishka13@gmail.com"
                             target="_blank" rel="noopener">
                             Hire Me
                         </a>
->>>>>>> ccbd8eb (Initial commit)
                         <a href="#work">
                             Projects <BsArrowUpRight />
                         </a>
